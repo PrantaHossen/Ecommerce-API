@@ -20,7 +20,6 @@ public class AppUser : BaseEntity
     // Refresh token fields
     public string? RefreshToken { get; private set; }
     public DateTime? RefreshTokenExpiresAt { get; private set; }
-
     // EF Core needs this
     private AppUser() { }
 
