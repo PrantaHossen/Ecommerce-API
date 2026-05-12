@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "exGwWQdmQ84=",
+  "success": true,
+  "projectFilePath": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pranta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\pranta\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
