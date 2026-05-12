@@ -1,0 +1,16 @@
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.deps.json
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.pdb
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Domain.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Domain.pdb
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.AssemblyInfo.cs
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.sourcelink.json
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerc.C5F54E74.Up2Date
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\refint\Ecommerce.Application.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.pdb
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\ref\Ecommerce.Application.dll

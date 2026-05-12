@@ -30,4 +30,8 @@
     <ProjectReference Include="..\Ecommerce.Application\Ecommerce.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Identity\" />
+  </ItemGroup>
+
 </Project>

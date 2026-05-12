@@ -1,0 +1,12 @@
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.deps.json
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\bin\Debug\net10.0\Ecommerce.Domain.pdb
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.sourcelink.json
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\refint\Ecommerce.Domain.dll
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\Ecommerce.Domain.pdb
+C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.Domain\obj\Debug\net10.0\ref\Ecommerce.Domain.dll
