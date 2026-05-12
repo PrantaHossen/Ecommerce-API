@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|c:\\pranta\\projects\\ecommerce\\api\\ecommerce-api\\ecommerce\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|c:\\pranta\\projects\\ecommerce\\api\\ecommerce-api\\ecommerce\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,9 @@
               "RelativeDocumentMoniker": "Ecommerce.API\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "Ecommerce.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-12T04:57:58.741Z",
+              "WhenOpened": "2026-05-12T05:18:42.351Z",
               "EditorCaption": ""
             },
             {
@@ -40,6 +44,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:17:53.273Z",
+              "EditorCaption": ""
             }
           ]
         }

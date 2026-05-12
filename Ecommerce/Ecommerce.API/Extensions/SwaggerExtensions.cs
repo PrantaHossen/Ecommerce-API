@@ -12,10 +12,9 @@ public static class SwaggerExtensions
             {
                 Title = "ECommerce API",
                 Version = "v1",
-                Description = "ASP.NET Core 9 Clean Architecture E-Commerce API"
+                Description = "ASP.NET Core 10 Clean Architecture E-Commerce API"
             });
 
-            // Add JWT Bearer input in Swagger UI
             options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
             {
                 Name = "Authorization",
@@ -26,6 +25,7 @@ public static class SwaggerExtensions
                 Description = "Enter your JWT token. Example: eyJhbGci..."
             });
 
+            // ✅ Works perfectly with Swashbuckle 6.9.0
             options.AddSecurityRequirement(new OpenApiSecurityRequirement
             {
                 {

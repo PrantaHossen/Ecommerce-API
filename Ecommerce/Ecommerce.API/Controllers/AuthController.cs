@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ECommerceAPI.API.Controllers;
 
 [ApiController]
-[Route("api/v1/auth")]
+[Route("api/auth")]
 public class AuthController : ControllerBase
 {
     private readonly IMediator _mediator;

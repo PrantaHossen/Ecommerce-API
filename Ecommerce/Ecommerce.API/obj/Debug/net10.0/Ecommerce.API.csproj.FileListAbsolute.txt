@@ -12,7 +12,6 @@ C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\MediatR.dll
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\MediatR.Contracts.dll
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
 C:\Pranta\PROJECTS\Ecommerce\API\Ecommerce-API\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
