@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|c:\\pranta\\projects\\ecommerce\\api\\ecommerce-api\\ecommerce\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|c:\\pranta\\projects\\ecommerce\\api\\ecommerce-api\\ecommerce\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\pranta\\projects\\ecommerce\\api\\ecommerce-api\\ecommerce\\ecommerce.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Ecommerce.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-12T05:18:42.351Z",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:49:38.441Z",
               "EditorCaption": ""
             },
             {
@@ -44,19 +40,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Pranta\\PROJECTS\\Ecommerce\\API\\Ecommerce-API\\Ecommerce\\Ecommerce.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T05:17:53.273Z",
-              "EditorCaption": ""
             }
           ]
         }
